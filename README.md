@@ -15,7 +15,7 @@ Your README must include:
 myFunction(): http://www.w3schools.com/js/js_functions.asp
 (This is where you list all you functions and cite them if necessary)
 
-## Cite & Code Explanation Example
+### Code Explanation Example
 **Functions**
 
 function myFunction(a, b) {
