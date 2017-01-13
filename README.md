@@ -20,9 +20,7 @@ Your README must include:
 ## Mockups or Wireframes
 ![Alt text](https://github.com/profhall/github-intro/blob/master/IMG_0276.JPG?raw=true "Optional Title")
 
-### Code Explanation Example
-**Functions**
-
+### Functions
 function myFunction(a, b) {
 
   return a * b;
