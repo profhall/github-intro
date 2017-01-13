@@ -13,7 +13,7 @@ Your README must include:
 # Functions/Methods Used
 **(project name)** utilizes the following functions|methods|special tags:
 
-myFunction(): http://www.w3schools.com/js/js_functions.asp
+**myFunction():** http://www.w3schools.com/js/js_functions.asp
 
 (This is where you list all you functions and cite them if necessary)
 
@@ -26,6 +26,6 @@ function myFunction(a, b) {
   
  }
 
-The function myFunction() works as follows:
-  - myFunction() is called by passing in two number variables
-  - then myFunction() returns the product of those two numbers
+The function **myFunction()** works as follows:
+  - **myFunction()** is called by passing in two number variables
+  - Then **myFunction()** returns the product of those two numbers
