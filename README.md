@@ -11,8 +11,10 @@ Your README must include:
 
 
 # Functions/Methods Used
-(project name) utilizes the following functions|methods|special tags: 
+**(project name)** utilizes the following functions|methods|special tags:
+
 myFunction(): http://www.w3schools.com/js/js_functions.asp
+
 (This is where you list all you functions and cite them if necessary)
 
 ### Code Explanation Example
