@@ -9,12 +9,21 @@ Your README must include:
 - You must cite any code that you recycled.
 - You must explain what the fucntion is doing.
 
-# Cite & Code Explanation Example
+
+# Functions/Methods Used
+(project name) utilizes the following functions|methods|special tags: 
+myFunction(): http://www.w3schools.com/js/js_functions.asp
+(This is where you list all you functions and cite them if necessary)
+
+## Cite & Code Explanation Example
+**Functions**
+
 function myFunction(a, b) {
+
   return a * b;
+  
  }
 
 The function myFunction() works as follows:
   - myFunction() is called by passing in two number variables
   - then myFunction() returns the product of those two numbers
-This code came from W3Schools.com: http://www.w3schools.com/js/js_functions.asp
