@@ -1,7 +1,7 @@
 # CIS 470 - Web Development
 This is a github introduction repository for the CIS 470 Web Development Class.
 
-# What you must have
+## What you must have
 Every assignment that you submit to github must have a README or you will be docked points.
 Your README must include: 
 - A detailed summary of any functions, methods, special tags used in your code.
@@ -10,7 +10,7 @@ Your README must include:
 - You must explain what the fucntion is doing.
 
 
-# Functions/Methods Used
+## Functions/Methods Used
 **(project name)** utilizes the following functions|methods|special tags:
 
 **myFunction():** http://www.w3schools.com/js/js_functions.asp
