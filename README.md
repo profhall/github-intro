@@ -7,8 +7,8 @@ Your README must include:
 - A detailed summary of any functions, methods, special tags used in your code.
 - Any type of wireframe or mockups you created for your project.
 - You must cite any code that you recycled.
-- You must explain what the fucntion is doing.
-
+- You must explain what the fucntion does
+- A Link to your project(if required)
 
 ## Functions/Methods Used
 **(project name)** utilizes the following functions|methods|special tags:
@@ -17,8 +17,8 @@ Your README must include:
 
 (This is where you list all you functions and cite them if necessary)
 
+## Mockups or Wireframes
 ![Alt text](https://github.com/profhall/github-intro/blob/master/IMG_0276.JPG?raw=true "Optional Title")
-
 
 ### Code Explanation Example
 **Functions**
