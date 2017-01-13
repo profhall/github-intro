@@ -20,7 +20,7 @@ Your README must include:
 ## Mockups or Wireframes
 ![Alt text](https://github.com/profhall/github-intro/blob/master/IMG_0276.JPG?raw=true "Optional Title")
 
-### Functions
+## Functions
 function myFunction(a, b) {
 
   return a * b;
@@ -31,3 +31,5 @@ The function **myFunction()** works as follows:
   - **myFunction()** is called by passing in two number variables
   - Then **myFunction()** returns the product of those two numbers
 
+##Project URL
+(url here)
